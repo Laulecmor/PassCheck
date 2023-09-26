@@ -7,12 +7,7 @@ In the script.js I created arrays for the characters that could be included in t
 
 I didn't have to touch the CSS or the HTML page. 
 
-![
-    
-](<Screenshot 2023-09-25 at 9.16.54 PM.png>)
-![ 
-
-](<Screenshot 2023-09-25 at 9.17.06 PM-1.png>)
-![
-    
-](<Screenshot 2023-09-25 at 9.17.20 PM.png>)
+![Photo1](<Screenshot 2023-09-25 at 9.17.20 PM-1.png>)
+![Photo2](<Screenshot 2023-09-25 at 9.17.20 PM-2.png>)
+![Photo3](<Screenshot 2023-09-25 at 9.17.20 PM-3.png>)
+![Photo4](<Screenshot 2023-09-25 at 9.26.34 PM.png>)
